@@ -1,0 +1,21 @@
+.news-container {
+    background: black;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.news-desc {
+    flex: 1000;
+    margin: 5px 0;
+}
+
+.news-logo {
+    flex: auto;
+    margin: 20px;
+    background: white;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,29 @@
+.login-container {
+    background: black;
+    border-radius: 20px;
+    margin: 10px 0px;
+}
+
+.login-form {
+    display: flex;
+    align-items: center;
+}
+
+.subelement {
+    color: white;
+    margin: 10px 30px;
+}
+
+.submit-button {
+    color: black;
+    height: min-content;
+}
+
+.form-input {
+    margin: 0 10px;
+    color: black;
+    border: none;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 10px;
+}

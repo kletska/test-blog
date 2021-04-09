@@ -1,0 +1,19 @@
+.element-container {
+    background: black;
+    border-radius: 20px;
+    margin: 10px 0px;
+    display: flex;
+}
+
+.element-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.maid-pic {
+    margin: 10px 30px;
+    width: 350px;
+}

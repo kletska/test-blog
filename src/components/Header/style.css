@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    background: black;
+}
+
+.headerMenu {
+    margin: 0 10px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+
+.menuElement {
+    padding: 0 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.menuElement:hover{
+    color: #5f9ea0;
+}
+
+.space {
+    flex: 2;
+}
+
+.icons {
+    display: flex;
+    margin: 0 10px;
+}
+
